@@ -1,11 +1,11 @@
-"F:\ActiveProject\ShikorPlugin\Plugins\Blueprinc4e8aa4d0404V1\Source\BlueprintColorPicker\Private\BlueprintColorPicker.cpp"
+"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Source\BlueprintColorPicker\Private\BlueprintColorPicker.cpp"
 /FI"F:\ActiveProject\ShikorPlugin\Intermediate\Build\Win64\x64\ShikorPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"F:\ActiveProject\ShikorPlugin\Plugins\Blueprinc4e8aa4d0404V1\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\Definitions.BlueprintColorPicker.h"
+/FI"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\Definitions.BlueprintColorPicker.h"
 /Yu"F:\ActiveProject\ShikorPlugin\Intermediate\Build\Win64\x64\ShikorPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /Fp"F:\ActiveProject\ShikorPlugin\Intermediate\Build\Win64\x64\ShikorPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"F:\ActiveProject\ShikorPlugin\Plugins\Blueprinc4e8aa4d0404V1\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.cpp.obj"
-/sourceDependencies "F:\ActiveProject\ShikorPlugin\Plugins\Blueprinc4e8aa4d0404V1\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.cpp.dep.json"
-@"F:\ActiveProject\ShikorPlugin\Plugins\Blueprinc4e8aa4d0404V1\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.Shared.rsp"
+/Fo"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.cpp.obj"
+/sourceDependencies "F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.cpp.dep.json"
+@"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -34,6 +34,7 @@ public:
 	UPROPERTY(BlueprintAssignable, Category = "Blueprint Color Picker|Events")
 	FOnCancelButtonClicked OnCancelButtonClicked;
 
+	/** The initial color of the picker. This is used as the reset color on cancel. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (ExposeOnSpawn = true), Category = "Blueprint Color Picker|Appearance")
 	FLinearColor InitialColor;
 
@@ -52,10 +53,18 @@ public:
 private:
 	TSharedPtr<SColorPicker> SlateColorPickerWidget;
 
-	void HandleColorChanged(const FLinearColor& NewColor);
-	void HandleColorOkClicked();
-	void HandleColorCancelClicked(const FLinearColor& PreviousColor);
+	/** The color that the picker is currently displaying. Changes as the user interacts. */
+	FLinearColor CurrentColor;
 
-	/** Helper function for Slate attribute binding. */
+	/** Called whenever the user changes the color in the SColorPicker widget. */
+	void HandleColorChanged(const FLinearColor& NewColor);
+
+	/** Called when the OK button is clicked. */
+	void HandleColorOkClicked();
+
+	/** Called when the Cancel button is clicked. Resets the color to InitialColor. */
+	void HandleColorCancelClicked();
+
+	/** Helper function for Slate attribute binding to get the current color. */
 	FLinearColor GetPickerColor() const;
 };

@@ -211,8 +211,14 @@ struct Z_Construct_UClass_UColorPicker_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_InitialColor_MetaData[] = {
 		{ "Category", "Blueprint Color Picker|Appearance" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "/** The initial color of the picker. This is used as the reset color on cancel. */" },
+#endif
 		{ "ExposeOnSpawn", "TRUE" },
 		{ "ModuleRelativePath", "Public/ColorPicker.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "The initial color of the picker. This is used as the reset color on cancel." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_BackgroundColor_MetaData[] = {
 		{ "Category", "Blueprint Color Picker|Appearance" },
@@ -325,14 +331,14 @@ UColorPicker::~UColorPicker() {}
 // End Class UColorPicker
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_Blueprinc4e8aa4d0404V1_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics
+struct Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_BlueprintColorPickerModify_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UColorPicker, UColorPicker::StaticClass, TEXT("UColorPicker"), &Z_Registration_Info_UClass_UColorPicker, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UColorPicker), 1529852405U) },
+		{ Z_Construct_UClass_UColorPicker, UColorPicker::StaticClass, TEXT("UColorPicker"), &Z_Registration_Info_UClass_UColorPicker, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UColorPicker), 237825457U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_Blueprinc4e8aa4d0404V1_Source_BlueprintColorPicker_Public_ColorPicker_h_2441661896(TEXT("/Script/BlueprintColorPicker"),
-	Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_Blueprinc4e8aa4d0404V1_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_Blueprinc4e8aa4d0404V1_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_BlueprintColorPickerModify_Source_BlueprintColorPicker_Public_ColorPicker_h_2822283785(TEXT("/Script/BlueprintColorPicker"),
+	Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_BlueprintColorPickerModify_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ActiveProject_ShikorPlugin_Plugins_BlueprintColorPickerModify_Source_BlueprintColorPicker_Public_ColorPicker_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

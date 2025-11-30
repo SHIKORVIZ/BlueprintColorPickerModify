@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\activeproject\\clients\\251001_ltower\\25100101\\project\\f_25100101\\plugins\\blueprintcolorpickermodify\\source\\blueprintcolorpicker\\private\\blueprintcolorpicker.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\activeproject\\clients\\251001_ltower\\25100101\\project\\f_25100101\\intermediate\\build\\win64\\x64\\f_25100101\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\activeproject\\clients\\251001_ltower\\25100101\\project\\f_25100101\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\x64\\unrealgame\\development\\blueprintcolorpicker\\definitions.blueprintcolorpicker.h",
+            "f:\\activeproject\\clients\\251001_ltower\\25100101\\project\\f_25100101\\plugins\\blueprintcolorpickermodify\\source\\blueprintcolorpicker\\public\\blueprintcolorpicker.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

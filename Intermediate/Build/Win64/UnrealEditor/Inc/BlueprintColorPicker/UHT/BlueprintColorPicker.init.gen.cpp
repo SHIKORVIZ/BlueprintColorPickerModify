@@ -25,7 +25,7 @@ void EmptyLinkFunctionForGeneratedCodeBlueprintColorPicker_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xC354AC27,
+				0xB47D40F4,
 				0x379FC682,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -33,5 +33,5 @@ void EmptyLinkFunctionForGeneratedCodeBlueprintColorPicker_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_BlueprintColorPicker.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BlueprintColorPicker(Z_Construct_UPackage__Script_BlueprintColorPicker, TEXT("/Script/BlueprintColorPicker"), Z_Registration_Info_UPackage__Script_BlueprintColorPicker, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC354AC27, 0x379FC682));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BlueprintColorPicker(Z_Construct_UPackage__Script_BlueprintColorPicker, TEXT("/Script/BlueprintColorPicker"), Z_Registration_Info_UPackage__Script_BlueprintColorPicker, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB47D40F4, 0x379FC682));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

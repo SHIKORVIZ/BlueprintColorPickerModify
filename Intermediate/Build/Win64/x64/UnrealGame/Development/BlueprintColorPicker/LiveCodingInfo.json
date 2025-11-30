@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BlueprintColorPicker.cpp.obj": [
+			"BlueprintColorPicker.init.gen.cpp.obj",
+			"ColorPicker.gen.cpp.obj",
+			"BlueprintColorPicker.cpp.obj",
+			"ColorPicker.cpp.obj"
+		]
+	}
+}
