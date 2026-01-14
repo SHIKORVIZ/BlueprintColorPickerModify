@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlueprintColorPicker.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\ActiveProject\ShikorPlugin\Intermediate\Build\Win64\x64\ShikorPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\Module.BlueprintColorPicker.cpp.obj"
+"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\BlueprintColorPicker.cpp.obj"
+"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\ColorPicker.cpp.obj"
+"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\Default.rc2.res"
+/OUT:"F:\ActiveProject\ShikorPlugin\Plugins\BlueprintColorPickerModify\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintColorPicker\UnrealEditor-BlueprintColorPicker.lib"

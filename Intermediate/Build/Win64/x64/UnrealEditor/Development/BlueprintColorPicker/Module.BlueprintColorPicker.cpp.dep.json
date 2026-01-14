@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintcolorpicker\\module.blueprintcolorpicker.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\activeproject\\shikorplugin\\intermediate\\build\\win64\\x64\\shikorplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintcolorpicker\\definitions.blueprintcolorpicker.h",
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintcolorpicker\\uht\\blueprintcolorpicker.init.gen.cpp",
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintcolorpicker\\uht\\colorpicker.gen.cpp",
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\source\\blueprintcolorpicker\\public\\colorpicker.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\visual.generated.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgettransform.generated.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "f:\\software\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "f:\\software\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widget.generated.h",
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintcolorpicker\\uht\\colorpicker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

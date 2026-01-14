@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\source\\blueprintcolorpicker\\private\\blueprintcolorpicker.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\activeproject\\shikorplugin\\intermediate\\build\\win64\\x64\\shikorplugin\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\blueprintcolorpicker\\definitions.blueprintcolorpicker.h",
+            "f:\\activeproject\\shikorplugin\\plugins\\blueprintcolorpickermodify\\source\\blueprintcolorpicker\\public\\blueprintcolorpicker.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
